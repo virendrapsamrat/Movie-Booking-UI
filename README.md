@@ -1,0 +1,2 @@
+# Movie-Booking-UI
+There is an online movie store, which has categories like action, thriller etc. All movies have different prices. They also have the release dates associated with them and the rating.   1.The listing of movies will be there with price and ratings of each of them.   2.One can sort the movies based on  1. release dates  2.ratings   3.One can filter the movies by  1. price ranges  2. Categories   4.Movies tickets can be booked online
